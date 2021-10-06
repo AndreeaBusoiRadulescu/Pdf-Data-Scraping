@@ -5019,9 +5019,9 @@
     "restore": {
       "projectUniqueName": "Robot5_PdfDataScraping",
       "projectName": "Robot5_PdfDataScraping",
-      "projectPath": "D:\\ProiecteUiPath\\Robot5_PdfDataScraping\\.local",
+      "projectPath": "D:\\ProiecteUiPath\\Pdf-Data-Scraping\\.local",
       "packagesPath": "C:\\Users\\Busoi Andreea\\.nuget\\packages\\",
-      "outputPath": "D:\\ProiecteUiPath\\Robot5_PdfDataScraping\\.local"
+      "outputPath": "D:\\ProiecteUiPath\\Pdf-Data-Scraping\\.local"
     },
     "frameworks": {
       "net461": {

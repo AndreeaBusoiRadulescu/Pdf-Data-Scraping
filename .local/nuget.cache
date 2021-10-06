@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6E5fNC3YPWdEEVJ3Ia7JenwjKoITceMXHmjr6lxvRdhzP5Y0vb4EKjUJPznHAVZRWRFLDwaMNRn+P52Vp+V3A==",
+  "dgSpecHash": "DZZ1AI2LmnVxJ/hpAIvNLdAdryskF5d+hTO+/RgtfCINOkUIitL7T3OIfO6+qdDCd7DtqICqEXlMgl/pTXUSng==",
   "success": true,
-  "projectFilePath": "D:\\ProiecteUiPath\\Robot5_PdfDataScraping\\.local\\",
+  "projectFilePath": "D:\\ProiecteUiPath\\Pdf-Data-Scraping\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Busoi Andreea\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Busoi Andreea\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
